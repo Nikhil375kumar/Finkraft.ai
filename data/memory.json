@@ -1,0 +1,28 @@
+{
+  "history": [
+    {
+      "query": "How do I use upload feature?\u201d",
+      "response": "To use the upload feature, follow these steps: \n\n1. Click on the upload button.\n2. Select the file you want to upload from your device.\n3. Wait for the file to upload.\n4. Confirm the upload is complete.\n\nIf you need more specific instructions, please let me know the context or platform you're using."
+    },
+    {
+      "query": "Filter last month\u2019s report",
+      "response": " Report filtered for last month."
+    },
+    {
+      "query": "Upload not working",
+      "response": "Created Support Ticket #1 (Status: Open)"
+    },
+    {
+      "query": "What is the status of my ticket?\u201d",
+      "response": "Ticket #1 is Open"
+    },
+    {
+      "query": "Tell me a joke",
+      "response": "Sorry, I couldn\u2019t understand that."
+    },
+    {
+      "query": "Download the report",
+      "response": " Report downloaded."
+    }
+  ]
+}
